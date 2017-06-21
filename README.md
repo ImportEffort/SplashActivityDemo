@@ -10,7 +10,7 @@ App必备功能——闪屏页面实现，详情见： http://www.jianshu.com/p/
 
 实现效果：
 
-![效果图](https://ws4.sinaimg.cn/large/006tKfTcly1fgsucxhe90g30800e84qq.gif)
+![效果图](https://github.com/ImportEffort/SplashActivityDemo/blob/master/%E6%95%88%E6%9E%9C%E5%9B%BE.gif?raw=true)
 
 具体内容请参照博客 
 > http://www.jianshu.com/p/b38ec0bfee7d
